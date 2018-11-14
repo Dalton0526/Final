@@ -1,0 +1,86 @@
+body{
+	text-align: center;
+	width: 800px;
+	margin: auto;
+	font-size: 10px;
+}
+
+.Space-cube{
+	Width: 100px;
+	
+	
+}
+
+#navbar{
+	display: inline;
+	
+}
+
+h1 {
+	letter-spacing: 15px;
+	font-family: "Georgia";
+	text-align: left;
+	font-size: 25px;
+	font-style: capitalize;
+	
+}
+
+h2 {
+	font-family: "verdana", san-serif;
+	font-size: 15px;
+	color: black;
+}
+
+
+
+.right {
+	margin-right: 0px;
+	width: 800px;
+	
+	
+}
+
+li {
+	display: inline;
+	font-family: "verdana", san-serif;
+	font-size: 15px;
+	
+	padding: 0px;
+	margin: 8px;
+	list-style-type: none;
+	width: 800px;
+	overflow: hidden;
+	color: grey;
+	padding-top: 25px;
+}
+
+
+
+img {
+	display: block;
+	width: 800px;
+}
+
+.box {
+	float: left;
+	display: inline;
+	margin-top: 25px;
+	padding: 6.5px;
+	border-bottom: 1px solid grey;
+	border-right: 1px solid grey;
+	border-right-style: hidden;
+	font-size: 15px;
+	color: gray;
+
+
+}
+
+
+
+#footer {
+	width: 800px;
+	clear: both;
+	text-align: center;
+	font-family: "verdana", san-serif;
+	padding-top: 45px;
+}
